@@ -1,0 +1,4 @@
+requests~=2.25.1
+marshmallow~=3.10.0
+websockets
+discord.py
